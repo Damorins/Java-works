@@ -1,7 +1,14 @@
-/*Hacer un programa que almacene en un vector de 5 elementos las ventas anuales de cada una 
+/*
+Esp
+Hacer un programa que almacene en un vector de 5 elementos las ventas anuales de cada una 
 de las 5 tiendas de una cadena de supermercados (asignárselos al vector al declararlo). A continuación 
 calcular cuál fue la tienda que menos vendió, cuál fue la que más vendió y el importe total de ventas 
-de las 5 tiendas. */
+de las 5 tiendas.
+Eng
+Make a program that stores in a 5-element vector the annual sales of each of the 5 stores in a supermarket 
+chain (assign them to the vector when declaring it). Then calculate which was the store that sold the least, 
+which was the most sold and the total sales amount of the 5 stores.
+*/
 package array1;
 import java.util.Scanner;
 public class Array1 {
